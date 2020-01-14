@@ -1,6 +1,8 @@
 # hash-tables-isabellarolfe13
 hash-tables-isabellarolfe13 created by GitHub Classroom
 
+VIEW THIS READ ME RAW
+
 My Hash Function (total files: 2)	
         -Run HashTables
         -need wordFile.txt
