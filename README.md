@@ -1,7 +1,7 @@
 # hash-tables-isabellarolfe13
 hash-tables-isabellarolfe13 created by GitHub Classroom
 
-VIEW THIS READ ME RAW
+VIEW THIS READ ME RAW (TOP RIGHT)
 
 My Hash Function (total files: 2)	
         -Run HashTables
